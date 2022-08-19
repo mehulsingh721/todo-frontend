@@ -8,7 +8,6 @@ import { RouterLink } from 'vue-router';
       <div class="nav__logo"><span class="primary">To</span>Do</div>
       <ul class="nav__links">
         <li class="nav__links--link"><RouterLink to="/">Home</RouterLink></li>
-        <li class="nav__links--link"><RouterLink to="/home">Logout</RouterLink></li>
       </ul>
     </nav>
   </header>
